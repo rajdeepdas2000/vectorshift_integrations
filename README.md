@@ -185,4 +185,4 @@ Data returned to frontend
 - HubSpot credentials are loaded securely using environment variables.
 
 
-- ‼️‼️‼️Some random ling ling approached me with this but never acknowledged my submission, if you ever encounter them, avoid like the plague.
+- ‼️‼️‼️Some random ling ling approached me with this but never acknowledged my submission, if you ever encounter them, avoid them like the plague.
